@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/refatalsakka/php-concepts"><img src="https://github.com/refatalsakka/php-concepts/blob/main/php-concepts.webp" alt="Gguide to PHP concepts" width=200" /></a>
+  <a href="https://github.com/refatalsakka/php-concepts"><img src="https://raw.githubusercontent.com/refatalsakka/refatalsakka-php-concepts/main/php-concepts.webp" alt="Gguide to PHP concepts" width=200" /></a>
   <br>
   <br>
   PHP concepts, from basic to advanced.
